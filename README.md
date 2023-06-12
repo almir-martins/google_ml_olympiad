@@ -2,7 +2,11 @@
 
 Repositório criado para a primeira edição da Google ML Olympiad for Students, uma competição de Machine Learning do Google voltada especialmente para os alunos nessa área.
 
+![Folder](data/img1.png)
+
 Competição organizada pelo Google DSC Uninter e hospedada no Kaggle, com o apoio de renomados especialistas, incluindo Mario Filho, um Kaggle Grandmaster e uma referência brasileira na Ciência de Dados. Mario palestrou na live de starter da competição para oferecer orientação e compartilhar sua vasta experiência com os participantes.
+
+![Folder](data/img2.png)
 
 Para mais informações, visite o link: https://gdsc.community.dev/e/mpzavt/
 
