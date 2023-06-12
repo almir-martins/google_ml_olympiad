@@ -6,7 +6,7 @@ Competição organizada pelo Google DSC Uninter e hospedada no Kaggle, com o apo
 
 Para mais informações, visite o link: https://gdsc.community.dev/e/mpzavt/
 
-A idéia de participar dessa competição de prestígio e ter a chance de conquistar um lugar no pódio, se envolver com outros interessados em Machine Learning, ampliar  rede de contatos e destacar habilidades nessa área em constante evolução.
+A idéia de participar dessa competição de prestígio e ter a chance de conquistar um lugar no pódio, se envolver com outros interessados em Machine Learning, ampliar rede de contatos e destacar habilidades nessa área em constante evolução.
 
 ## Contexto
 
